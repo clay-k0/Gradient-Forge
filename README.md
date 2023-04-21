@@ -5,8 +5,8 @@ This is a simple gradient background generator that allows you to choose two col
 ## Usage
 
 1. Open the index.html file in your web browser.
-2. Choose two colors using the color picker inputs or randomize
-3. Copy the hex color or copy the css if you wish to use it
+2. Choose two colors using the color picker inputs or randomize.
+3. Copy the hex colors or copy the css if you wish to use it.
 
 ## Contributing
 
